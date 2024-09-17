@@ -1,0 +1,8 @@
+{
+    "device123": {
+        "secret_key": "supersecretkey"
+    },
+    "device456": {
+        "secret_key": "anothersecretkey"
+    }
+}
