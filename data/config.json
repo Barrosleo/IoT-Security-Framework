@@ -1,0 +1,10 @@
+{
+    "server": {
+        "host": "example.com",
+        "port": 443
+    },
+    "security": {
+        "encryption": "AES",
+        "key_length": 256
+    }
+}
